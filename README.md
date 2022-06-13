@@ -1,11 +1,14 @@
 # Uwp_Discord
+
 An Xbox Game Bar Widget Sample for Discord
 
 ![image_1](images/image_1.png)
 
-## Releases
+## Audio Support
 
-* [Windows Installer](https://github.com/tgraupmann/Uwp_Discord/releases/tag/1.0.0) - Xbox Game Bar Discord Widget
+WebView2 is required in order to set the allowed useragent for audio to enable microphone and speakers.
+
+![image_2](images/image_2.png)
 
 # Support
 
