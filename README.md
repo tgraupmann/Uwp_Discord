@@ -10,6 +10,14 @@ WebView2 is required in order to set the allowed useragent for audio to enable m
 
 ![image_2](images/image_2.png)
 
+## Code
+
+This sample uses a WebView2 control with Discord set as the source on the main page.
+
+```
+<controls:WebView2 Source="https://discordapp.com"></controls:WebView2>
+```
+
 # Support
 
 Support is available in Discord, you can reach me at `Tim Graupmann#0611`.
