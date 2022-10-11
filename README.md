@@ -1,3 +1,9 @@
+# Updates
+
+* This is the version that you want!
+
+* You can find the compile instructions in the [releases](https://github.com/tgraupmann/Uwp_Discord/releases).
+
 # Uwp_Discord
 
 An Xbox Game Bar Widget Sample for Discord
